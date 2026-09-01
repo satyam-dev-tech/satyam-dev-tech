@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi,%20I'm%20Satyam%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20real-world%20software,%20one%20project%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/satyam-dev-tech">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+Developer;Full-Stack+%26+Backend;Exploring+AI%2FML+and+DSA;Building+Campus+OS+%F0%9F%9A%80;Always+shipping+something.&font=Fira+Code&center=true&width=600&height=45&color=B980F0&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=B980F0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%9C;Building+with+React+%26+Node.js;Exploring+AI+%2F+ML+%F0%9F%A4%96;Currently+building+Campus+OS+%F0%9F%9A%80;Learning.+Building.+Shipping.+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-satyam--dev--tech-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-dev-tech)
 [![Instagram](https://img.shields.io/badge/Instagram-compiled.peace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006/)
+[![Email](https://img.shields.io/badge/Email-chandrasatyam013-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
@@ -49,9 +49,8 @@ Campus OS is a Student Intelligence Platform that sits on top of a college/stude
 
 **Stack:** React · Vite · Tailwind CSS · Node.js · Express.js · Prisma · PostgreSQL · REST APIs
 
-[![Repository](https://img.shields.io/badge/Repository-View-8E2DE2?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-4A00E0?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Docs](https://img.shields.io/badge/Documentation-Read-B980F0?style=flat-square&logo=readthedocs&logoColor=white)](#)
+[![Repository](https://img.shields.io/badge/Repository-View-8E2DE2?style=flat-square&logo=github&logoColor=white)](https://github.com/satyam-dev-tech/Campus-os)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-4A00E0?style=flat-square&logo=vercel&logoColor=white)](https://campus-os-pi.vercel.app/)
 
 </td>
 </tr>
@@ -182,8 +181,8 @@ I learn best by building things that are actually mine — breaking them, figuri
 
 [![GitHub](https://img.shields.io/badge/GitHub-satyam--dev--tech-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-dev-tech)
 [![Instagram](https://img.shields.io/badge/Instagram-compiled.peace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006/)
+[![Email](https://img.shields.io/badge/Email-chandrasatyam013-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmail.com)
 
 </div>
 
