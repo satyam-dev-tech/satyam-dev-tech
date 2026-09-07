@@ -5,11 +5,12 @@
 </a>
 <br><br>
  
-[![GitHub](https://img.shields.io/badge/GitHub-satyam--dev--tech-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-dev-tech)
-[![Instagram](https://img.shields.io/badge/Instagram-compiled.peace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006/)
-[![Email](https://img.shields.io/badge/Email-chandrasatyam013-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmail.com)
- 
+<p align="center">
+<a href="https://github.com/satyam-dev-tech"><img src="https://img.shields.io/badge/GitHub-satyam--dev--tech-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/compiled.peace/"><img src="https://img.shields.io/badge/Instagram-compiled.peace-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/satyam-chandra2006/"><img src="https://img.shields.io/badge/LinkedIn-Satyam_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chandrasatyam013@gmail.com"><img src="https://img.shields.io/badge/Email-chandrasatyam013-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 <br>
@@ -20,7 +21,7 @@ I'm a BCA (Hons.) Computer Applications student learning software development th
  
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%"/>
-## 🚀 Featured Project
+## 🚀 Featured Projects
  
 <table>
 <tr>
@@ -45,20 +46,37 @@ Campus OS is a Student Intelligence Platform that sits on top of a college/stude
 </tr>
 </table>
 <br>
+<table>
+<tr>
+<td width="100%">
+### ⚡ CodeBench
+**Status:** 🟢 Built — ongoing polishing
+ 
+CodeBench is a DSA-focused platform for learning data structures and algorithms through interactive visualization, complexity analysis, and hands-on coding practice.
+ 
+**Stack:** React · Node.js
+ 
+[![Repository](https://img.shields.io/badge/Repository-View-8E2DE2?style=flat-square&logo=github&logoColor=white)](https://github.com/satyam-dev-tech/CodeBench)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-4A00E0?style=flat-square&logo=vercel&logoColor=white)](https://code-bench-nine.vercel.app/)
+ 
+</td>
+</tr>
+</table>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
 ## 🔮 What's Next
  
-Two projects currently in planning — not yet built.
+Projects currently in planning — not yet built.
  
 <table>
 <tr>
 <td width="50%" valign="top">
-**⚡ CodeBench**
+**🩺 MediLens**
 🟡 Upcoming
  
-A DSA-focused platform exploring interactive visualization of data structures and algorithms, complexity analysis, and hands-on coding practice.
+A health-tech concept exploring how AI can help interpret medical reports and prescriptions into simpler, understandable insights.
  
-*Planning:* React · Node.js
+*Exploring:* React · Node.js · AI/ML
  
 </td>
 <td width="50%" valign="top">
@@ -143,16 +161,14 @@ I learn best by building things that are actually mine — breaking them, figuri
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%"/>
 ## 🤝 Let's Connect
  
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-satyam--dev--tech-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-dev-tech)
-[![Instagram](https://img.shields.io/badge/Instagram-compiled.peace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006/)
-[![Email](https://img.shields.io/badge/Email-chandrasatyam013-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmail.com)
- 
-</div>
+<p align="center">
+<a href="https://github.com/satyam-dev-tech"><img src="https://img.shields.io/badge/GitHub-satyam--dev--tech-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/compiled.peace/"><img src="https://img.shields.io/badge/Instagram-compiled.peace-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/satyam-chandra2006/"><img src="https://img.shields.io/badge/LinkedIn-Satyam_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chandrasatyam013@gmail.com"><img src="https://img.shields.io/badge/Email-chandrasatyam013-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=150&section=footer&text=Still%20learning.%20Still%20building.%20Still%20shipping.&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=75"/>
 <div align="center">
 <sub>Thanks for stopping by ✨</sub>
 </div>
- 
