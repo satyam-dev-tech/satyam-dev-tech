@@ -71,12 +71,12 @@ Projects currently in planning — not yet built.
 <table>
 <tr>
 <td width="50%" valign="top">
-**🩺 MediLens**
+**🌿 PhytoScan**
 🟡 Upcoming
  
-A health-tech concept exploring how AI can help interpret medical reports and prescriptions into simpler, understandable insights.
+An AI-powered crop health platform that detects crop diseases and pest infestations from plant images — analyzing symptoms, assessing severity, and providing actionable management and prevention guidance to help farmers catch issues early and reduce crop losses.
  
-*Exploring:* React · Node.js · AI/ML
+*Exploring:* React · Node.js · AI/ML · Computer Vision
  
 </td>
 <td width="50%" valign="top">
@@ -172,3 +172,4 @@ I learn best by building things that are actually mine — breaking them, figuri
 <div align="center">
 <sub>Thanks for stopping by ✨</sub>
 </div>
+ 
