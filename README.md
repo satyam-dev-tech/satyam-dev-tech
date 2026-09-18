@@ -11,6 +11,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=satyam-dev-tech&color=7dd3fc&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/satyam-dev-tech?style=flat-square&color=7dd3fc&label=Followers)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Satyamchandr131)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmail.com)
+
 </div>
 
 ---
