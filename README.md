@@ -29,83 +29,71 @@ I'm a BCA (Hons.) Computer Applications student learning software development th
 
 <br>
 
+<p align="center">
+<img src="https://img.shields.io/badge/💡_Problem_Solver-1a1a2e?style=flat-square&labelColor=1a1a2e&color=8E2DE2"/>
+<img src="https://img.shields.io/badge/📚_Continuous_Learner-1a1a2e?style=flat-square&labelColor=1a1a2e&color=4A00E0"/>
+<img src="https://img.shields.io/badge/🎯_Product_Focused-1a1a2e?style=flat-square&labelColor=1a1a2e&color=8E2DE2"/>
+<img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-1a1a2e?style=flat-square&labelColor=1a1a2e&color=4A00E0"/>
+</p>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%"/>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="100%">
+<td width="25%" valign="top">
 
-### Campus OS
-**Status:** 🟢 Built — ongoing polishing
+**🎓 Campus OS**
 
-Campus OS is a Student Intelligence Platform that sits on top of a college/student portal and turns raw academic data into useful insights.
+Student Intelligence Platform with attendance forecasting, academic analytics, exam planning & more.
 
-**What it does:**
-- 📊 Attendance forecasting — *"How many classes can I safely miss?"*
-- 📈 Academic analytics & GPA/CGPA forecasting
-- 🗓️ Exam planning & assignment tracking
-- 🎯 Weak-subject detection
-- 📚 Study planning
+![Completed](https://img.shields.io/badge/Completed-1a7f37?style=flat-square)
 
-**Stack:** React · Vite · Tailwind CSS · Node.js · Express.js · Prisma · PostgreSQL · REST APIs
+`React` `Node.js` `PostgreSQL`
 
-[![Repository](https://img.shields.io/badge/Repository-View-8E2DE2?style=flat-square&logo=github&logoColor=white)](https://github.com/satyam-dev-tech/Campus-os)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-4A00E0?style=flat-square&logo=vercel&logoColor=white)](https://campus-os-pi.vercel.app/)
+[Repo](https://github.com/satyam-dev-tech/Campus-os) · [Live](https://campus-os-pi.vercel.app/)
 
 </td>
-</tr>
-</table>
+<td width="25%" valign="top">
 
-<br>
+**⚡ CodeBench**
 
-<table>
-<tr>
-<td width="100%">
+DSA visualizer & learning platform with interactive animations for algorithms and data structures.
 
-### ⚡ CodeBench
-**Status:** 🟢 Built — ongoing polishing
+![Completed](https://img.shields.io/badge/Completed-1a7f37?style=flat-square)
 
-CodeBench is a DSA-focused platform for learning data structures and algorithms through interactive visualization, complexity analysis, and hands-on coding practice.
+`React` `Node.js`
 
-**Stack:** React · Node.js
-
-[![Repository](https://img.shields.io/badge/Repository-View-8E2DE2?style=flat-square&logo=github&logoColor=white)](https://github.com/satyam-dev-tech/CodeBench)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-4A00E0?style=flat-square&logo=vercel&logoColor=white)](https://code-bench-nine.vercel.app/)
+[Repo](https://github.com/satyam-dev-tech/CodeBench) · [Live](https://code-bench-nine.vercel.app/)
 
 </td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
-
-## 🔮 What's Next
-
-Projects currently in planning — not yet built.
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **🌿 PhytoScan**
-🟡 Upcoming
 
-An AI-powered crop health platform that detects crop diseases and pest infestations from plant images — analyzing symptoms, assessing severity, and providing actionable management and prevention guidance to help farmers catch issues early and reduce crop losses.
+AI-powered crop health platform that detects diseases & pests from plant images and guides prevention.
 
-*Exploring:* React · Node.js · AI/ML · Computer Vision
+![Upcoming](https://img.shields.io/badge/Upcoming-b08800?style=flat-square)
+
+`React` `Node.js` `AI/ML`
+
+*Planning phase*
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **🔐 CipherChat**
-🟡 Upcoming
 
-A secure real-time chat app exploring client-side end-to-end encryption and modern web security.
+Secure real-time chat app exploring client-side end-to-end encryption and modern web security.
 
-*Exploring:* React · Socket.io · MongoDB · Web Crypto API
+![Upcoming](https://img.shields.io/badge/Upcoming-b08800?style=flat-square)
+
+`React` `Socket.io` `MongoDB`
+
+*Planning phase*
 
 </td>
 </tr>
@@ -117,33 +105,22 @@ A secure real-time chat app exploring client-side end-to-end encryption and mode
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square)
-
-**Database**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="25%"><b>Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
+</td>
+<td valign="top" width="25%"><b>Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+</td>
+<td valign="top" width="25%"><b>Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb" />
+</td>
+<td valign="top" width="25%"><b>Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
+</td>
+</tr>
+</table>
 
 <br>
 
