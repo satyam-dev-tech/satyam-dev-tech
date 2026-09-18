@@ -1,126 +1,262 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Satyam%20Chandra&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Building+Campus+OS+%E2%80%94+Student+Intelligence+Platform;Full+Stack+%2B+AI+Enthusiast;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+AI+APIs" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0f172a&height=220&section=header&text=Satyam%20Chandra&fontSize=52&fontColor=8b5cf6&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18&descColor=38bdf8" width="100%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chandrasatyam013-arch&color=7dd3fc&style=flat&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/chandrasatyam013-arch?label=Followers&color=7dd3fc&style=flat)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=BCA+(Hons.)+Student;Full-Stack+%2F+Web+Developer;AI%2FML+Enthusiast;UI%2FUX+Explorer;Prompt+Engineering+Enthusiast;Building+things+that+actually+work." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0f172a"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=8b5cf6&labelColor=0f172a"/></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b5cf6&labelColor=0f172a" alt="profile views"/>
 
 </div>
 
----
+<br/>
 
-## 🧠 Who I Am
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-```typescript
+## 👋 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Group.svg" width="220"/>
+
+```ts
 const satyam = {
-  title: "CS Student",
-  stack: {
-    languages: ["JavaScript", "Python", "HTML", "CSS", "SQL"],
-    frontend: ["React", "Vite", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["PostgreSQL", "MongoDB"],
-    orm: ["Prisma"],
-    ai: ["Gemini", "Claude", "Groq", "Google AI Studio"],
-    devops: ["Git", "GitHub", "Docker", "Vercel", "Netlify"],
-    other: ["REST APIs", "Socket.io", "Web Crypto API", "Capacitor"],
-  },
-  launchedProjects: ["Campus OS — Student Intelligence Platform"],
-  certifications: [],
-  status: "Learning, building, and shipping projects",
-  openTo: ["Collaborations", "Open source", "Interesting tech conversations"],
+  role: ["BCA (Hons.) Student", "Full-Stack Developer", "AI/ML Enthusiast", "UI/UX Designer"],
+  focus: "Building AI-powered products that solve real problems",
+  currentlyExploring: ["Computer Vision", "LLM-powered agents", "Prompt Engineering"],
+  philosophy: "Ship things that actually work.",
 };
 ```
 
----
+I'm **Satyam Chandra** — a full-stack developer and AI/ML enthusiast who enjoys turning ideas into polished, working products. I care about clean architecture, thoughtful UI/UX, and applying AI where it genuinely adds value — not just where it sounds impressive.
+
+- 🌱 Exploring **AI-powered applications**, **agentic systems**, and **automation**
+- 🛠️ Building full-stack products end-to-end — from database schema to pixel-perfect UI
+- 🎯 Currently deepening my skills in **Computer Vision** and **LLM integrations**
+- 🤝 Open to collaborating on **AI, SaaS, and developer-tooling** projects
+
+<br/>
+
+## 🎯 Current Focus
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**Right now, I'm working on:**
+- 🌾 Scaling **Phytoscan**, an AI agronomist for crop health
+- 🎓 Building out **Campus OS**, a student intelligence platform
+- 📊 Refining algorithm visualizations in **CodeBench**
+- 🩺 Designing **MediLens** — an upcoming AI health-report explainer
+
+</td>
+<td width="50%" valign="top">
+
+**I'm learning about:**
+- 🤖 Multimodal AI & AI agents
+- 🧠 Prompt engineering patterns
+- ⚡ Scalable backend architecture with Prisma & PostgreSQL
+- 🎨 Motion-driven UI with Framer Motion
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
+
+**AI / ML**
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-0f172a?style=for-the-badge&logo=googlegemini&logoColor=8b5cf6)
+![Groq](https://img.shields.io/badge/Groq-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=38bdf8)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38bdf8)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logo=opencv&logoColor=8b5cf6)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
 ## 🚀 Featured Projects
 
-### 📊 Campus OS — Student Intelligence Platform
-Attendance forecasting, academic analytics, GPA forecasting, placement management, and more — all in one platform.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandrasatyam013-arch&repo=campus-os&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117" alt="Campus OS pin"/>
+### 🌾 Phytoscan
+**AI-powered agricultural intelligence platform**
 
-| Layer      | Technology                          |
-|------------|--------------------------------------|
-| Frontend   | React, Vite, Tailwind CSS            |
-| Backend    | Node.js, Express.js                  |
-| Database   | PostgreSQL, MongoDB (via Prisma)     |
-| AI         | Gemini, Claude, Groq                 |
+Early detection and management of crop diseases and pest infestations using multimodal AI.
 
-🔗 [Live](https://campus-os-pi.vercel.app/) · 💻 [Code](https://github.com/chandrasatyam013-arch/campus-os)
+**Key Features**
+- 🔍 AI-based crop disease & pest detection
+- 🤖 Multimodal AI Agronomist agent
+- 📸 Computer vision–driven image analysis
+- ☁️ Real-time data via Firebase/Firestore
 
----
+**Tech:** React · AI/ML · Computer Vision · Firebase · Firestore · Gemini · Node.js
 
-## 🛠️ Tech Stack
+**Status:** 🟢 Active Development
 
-**Languages**
+[![Repo](https://img.shields.io/badge/Repository-YOUR__REPO__URL-8b5cf6?style=flat-square&logo=github)](YOUR_REPO_URL)
+[![Demo](https://img.shields.io/badge/Live%20Demo-Visit-38bdf8?style=flat-square&logo=vercel)](YOUR_DEMO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Campus OS
+**Student Intelligence Platform**
+
+A unified platform built around academic data and student workflows.
+
+**Key Features**
+- 📈 Attendance forecasting & academic analytics
+- 📝 Exam planning & assignment tracking
+- 🎯 GPA/CGPA forecasting
+- ⚠️ Weak-subject detection & study planning
+- 💼 Recruiter/placement module
+
+**Tech:** React · Vite · Tailwind CSS · Node.js · Express · Prisma · PostgreSQL · Firebase
+
+**Status:** 🟢 Active Development
+
+[![Repo](https://img.shields.io/badge/Repository-YOUR__REPO__URL-8b5cf6?style=flat-square&logo=github)](YOUR_REPO_URL)
+[![Demo](https://img.shields.io/badge/Live%20Demo-Visit-38bdf8?style=flat-square&logo=vercel)](YOUR_DEMO_URL)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 CodeBench
+**Interactive DSA Learning & Visualization Platform**
+
+Visual, interactive exploration of algorithms and data structures.
+
+**Key Features**
+- 🎞️ Sorting, searching, graph & tree visualizations
+- ▶️ Interactive algorithm runner
+- 🎨 Smooth motion powered by Framer Motion
+- 🗂️ Clean, state-driven UI with Zustand
+
+**Tech:** React · Vite · Zustand · Tailwind CSS · Framer Motion
+
+**Status:** 🟢 Active Development
+
+[![Repo](https://img.shields.io/badge/Repository-YOUR__REPO__URL-8b5cf6?style=flat-square&logo=github)](YOUR_REPO_URL)
+[![Demo](https://img.shields.io/badge/Live%20Demo-Visit-38bdf8?style=flat-square&logo=vercel)](YOUR_DEMO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 MediLens
+**AI-Powered Medical Report Intelligence** *(Upcoming)*
+
+A planned platform to explain medical reports and surface trends in plain language.
+
+**Planned Features**
+- 📄 Explaining uploaded medical reports
+- 🧾 Extracting structured health information
+- 📊 Comparing report trends over time
+- 📚 Educational, easy-to-understand explanations
+
+**Tech (planned):** React · AI APIs · Node.js
+
+**Status:** 🟡 Planned / In Design
+
+[![Repo](https://img.shields.io/badge/Repository-Coming%20Soon-6b7280?style=flat-square&logo=github)](YOUR_REPO_URL)
+
+</td>
+</tr>
+</table>
+
 <br/>
-![Languages](https://skillicons.dev/icons?i=js,python,html,css)
 
-**Frontend**
-<br/>
-![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-**Backend / Infra**
-<br/>
-![Backend](https://skillicons.dev/icons?i=nodejs,express,docker)
-
-**Cloud**
-<br/>
-![Cloud](https://skillicons.dev/icons?i=vercel,netlify)
-
-**AI / Database**
-<br/>
-![AI/DB](https://skillicons.dev/icons?i=postgres,mongodb)
-
-**Dev Tools**
-<br/>
-![Dev Tools](https://skillicons.dev/icons?i=git,github)
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandrasatyam013-arch&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasatyam013-arch&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=38bdf8&currStreakLabel=8b5cf6" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=chandrasatyam013-arch&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=0D1117" alt="GitHub Streak"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" height="165"/>
 
 </div>
 
-### 🏆 Trophies
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=chandrasatyam013-arch&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-### 📊 Contribution Activity
+> The snake above eats my GitHub contribution graph and is auto-generated daily via GitHub Actions. See `.github/workflows/snake.yml` below.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrasatyam013-arch&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=8b5cf6"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=8b5cf6"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=c9d1d9"/></a>
 
 </div>
 
----
-
-## 🔗 Connect
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmai.com)
+### Building • Learning • Experimenting • Shipping
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
