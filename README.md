@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi,%20I'm%20Satyam%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20real-world%20software,%20one%20project%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 <a href="https://github.com/satyam-dev-tech">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=B980F0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%9C;Building+with+React+%26+Node.js;Exploring+AI+%2F+ML+%F0%9F%A4%96;Learning.+Building.+Shipping.+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=B980F0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%9C;Building+with+React+%26+Node.js;Exploring+AI+%2F+ML+%F0%9F%A4%96;Learning.+Building.+Shipping.+%E2%9C%A8" alt="Typing SVG" />
 </a>
 <br><br>
  
@@ -25,6 +25,7 @@ I'm a BCA (Hons.) Computer Applications student learning software development th
 <table>
 <tr>
 <td width="100%">
+
 ### Campus OS
 **Status:** 🟢 Built — ongoing polishing
  
@@ -36,6 +37,7 @@ Campus OS is a Student Intelligence Platform that sits on top of a college/stude
 - 🗓️ Exam planning & assignment tracking
 - 🎯 Weak-subject detection
 - 📚 Study planning
+
 **Stack:** React · Vite · Tailwind CSS · Node.js · Express.js · Prisma · PostgreSQL · REST APIs
  
 [![Repository](https://img.shields.io/badge/Repository-View-8E2DE2?style=flat-square&logo=github&logoColor=white)](https://github.com/satyam-dev-tech/Campus-os)
@@ -53,6 +55,7 @@ Two projects currently in planning — not yet built.
 <table>
 <tr>
 <td width="50%" valign="top">
+
 **⚡ CodeBench**
 🟡 Upcoming
  
@@ -62,6 +65,7 @@ A DSA-focused platform exploring interactive visualization of data structures an
  
 </td>
 <td width="50%" valign="top">
+
 **🔐 CipherChat**
 🟡 Upcoming
  
@@ -128,7 +132,7 @@ A secure real-time chat app exploring client-side end-to-end encryption and mode
 <img src="https://github-readme-stats.vercel.app/api?username=satyam-dev-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-dev-tech&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-dev-tech&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=satyam-dev-tech&theme=tokyonight&hide_border=true" width="60%" />
 <br><br>
  
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
@@ -144,6 +148,7 @@ I learn best by building things that are actually mine — breaking them, figuri
 ## 🤝 Let's Connect
  
 <div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-satyam--dev--tech-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-dev-tech)
 [![Instagram](https://img.shields.io/badge/Instagram-compiled.peace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006/)
@@ -155,132 +160,3 @@ I learn best by building things that are actually mine — breaking them, figuri
 <div align="center">
 <sub>Thanks for stopping by ✨</sub>
 </div>
- 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Satyam%20Chandra&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/satyam-dev-tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Campus+OS+%F0%9F%8E%93;Building+CodeBench+%E2%9A%A1;React+%2B+Node.js+%2B+Firebase;Full+Stack+Developer+%7C+CS+Student" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=satyam-dev-tech&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/satyam-dev-tech?style=flat-square&color=7dd3fc&label=Followers)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Satyamchandr131)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmail.com)
-
-</div>
-
----
-
-## 🧑‍💻 Who I Am
-
-```typescript
-const satyam = {
-  title: "Full Stack Developer | CS Student",
-  stack: ["C", "C++", "Python", "JavaScript", "Node.js", "React.js", "Firebase"],
-  launchedProjects: ["Campus OS", "CodeBench"],
-  upcomingProjects: ["PhytoScan", "CipherChat"],
-  status: "Learning, building, and shipping full stack projects 🚀",
-  openTo: ["Collaborations", "Full Stack Opportunities", "Interesting Ideas"],
-};
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Campus OS
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyam-dev-tech&repo=Campus-os&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | Node.js |
-| Database | Firebase |
-
-🔗 **Live:** [campus-os-pi.vercel.app](https://campus-os-pi.vercel.app) &nbsp;|&nbsp; 💻 **Code:** [satyam-dev-tech/Campus-os](https://github.com/satyam-dev-tech/Campus-os)
-
-<br clear="right"/>
-
-### ⚡ CodeBench
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyam-dev-tech&repo=CodeBench&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | Node.js |
-| Database | Firebase |
-
-🔗 **Live:** [code-bench-nine.vercel.app](https://code-bench-nine.vercel.app/) &nbsp;|&nbsp; 💻 **Code:** [satyam-dev-tech/CodeBench](https://github.com/satyam-dev-tech/CodeBench)
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,js)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=react)
-
-**Backend / Infra**
-
-![Skills](https://skillicons.dev/icons?i=nodejs)
-
-**AI / DB**
-
-![Skills](https://skillicons.dev/icons?i=firebase)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=satyam-dev-tech&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-dev-tech&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="39%" />
-
-<img src="https://streak-stats.demolab.com?user=satyam-dev-tech&theme=nord&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="60%" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satyam-dev-tech&no-frame=true&no-bg=true&theme=nord" />
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam-dev-tech&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%"/>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chandra2006)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Satyamchandr131)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/compiled.peace)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasatyam013@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
